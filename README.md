@@ -15,3 +15,5 @@
 
 * Comment #166 and run the program for recognition of gestures in American Sign Language
 
+### Demo
+![alt text](demo.png "Hello")
